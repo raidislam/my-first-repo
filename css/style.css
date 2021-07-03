@@ -1,0 +1,8 @@
+section:first-of-type>* {
+    color: red;
+}
+
+section:last-of-type>h2 {
+    background: blue;
+    color: #fff;
+}
